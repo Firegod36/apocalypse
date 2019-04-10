@@ -1,12 +1,12 @@
 <xml>
 <item>
-<title>[B][COLORyellow]*======Welcome to Diablo Addon======*[/COLOR][/B]</title>
+<title>[B][COLORred]*======Welcome to Diablo Addon======*[/COLOR][/B]</title>
 <thumbnail></thumbnail>
 <fanart></fanart>
 </item>
 
 <dir>
-        <name>[B][COLORyellow]Movies[/COLOR][/B]</name>
+        <name>[B][COLORred]Movies[/COLOR][/B]</name>
         <link>https://raw.githubusercontent.com/Firegod36/apocalypse/master/movies.xml</link>
         <animated_thumbnail></animated_thumbnail>
         <thumbnail></thumbnail>
