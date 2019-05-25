@@ -1,5 +1,5 @@
 <item>
-<title>[COLORyellow]**********Welcome to the Diablo Addon**********[/COLOR]</title>
+<title>[COLORyellow]**********Welcome Watchdogs Addon**********[/COLOR]</title>
 <thumbnail></thumbnail>
 <fanart></fanart>
 </item>
@@ -13,12 +13,5 @@
         <fanart></fanart>
 </dir>
 
-<dir>
-        <name>[COLORyellow]Diablo Addon Tools[/COLOR]</name>
-        <link>https://raw.githubusercontent.com/Firegod36/apocalypse/master/diablosettings.xml</link>
-        <animated_thumbnail></animated_thumbnail>
-        <thumbnail></thumbnail>
-        <animated_fanart></animated_fanart>
-        <fanart></fanart>
-</dir>
+
 
