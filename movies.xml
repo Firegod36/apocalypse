@@ -25,3 +25,12 @@
 <thumbnail></thumbnail>
 <fanart>https://static1.squarespace.com/static/51b3dc8ee4b051b96ceb10de/t/5cc5f481f4e1fc08df2267cb/1556477062358/?format=2500w</fanart>
 </plugin>
+        
+<plugin>
+<name>[COLORyellow]Random Box Office Movies[/COLOR]</name>
+<link>plugin://plugin.video.watchdogs/?action=random&rtype=movie&url=boxoffice</link>
+<thumbnail></thumbnail>
+<fanart>https://static1.squarespace.com/static/51b3dc8ee4b051b96ceb10de/t/5cc5f481f4e1fc08df2267cb/1556477062358/?format=2500w</fanart>
+</plugin>
+        
+        
