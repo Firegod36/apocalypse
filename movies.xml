@@ -27,8 +27,8 @@
 </plugin>
         
 <plugin>
-<name>Random Family Movie</name>
-<link>plugin://plugin.video.watchdogs/?action=random&rtype=movie&url=peoplewatching</link>
+<name>Random People Watching</name>
+<link>plugin://plugin.video.watchdogs/?action=random&rtype=movie&url=people watching</link>
 <thumbnail></thumbnail>
 </plugin>
         
