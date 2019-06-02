@@ -13,6 +13,50 @@
         <fanart></fanart>
 </dir>
 
+<title>[B]******** IPTV Stuff ********[/B]</title>
+	<thumbnail></thumbnail>
+</item>
+<plugin>
+	<title>USA Live TV</title>
+	<link>https://raw.githubusercontent.com/the13clowns/resources/master/tRmKGjTbr/xmls/iptv/USA.m3u</link>
+</plugin>
+<plugin>
+	<title>Canada Live TV</title>
+	<link>https://raw.githubusercontent.com/the13clowns/resources/master/tRmKGjTbr/xmls/iptv/canada.m3u</link>
+</plugin>
+<plugin>
+	<title>UK Live TV</title>
+	<link>https://raw.githubusercontent.com/the13clowns/resources/master/tRmKGjTbr/xmls/iptv/uk.m3u</link>
+</plugin>
+<plugin>
+	<title>World Live TV</title>
+	<link>https://raw.githubusercontent.com/the13clowns/resources/master/tRmKGjTbr/xmls/iptv/world.m3u</link>
+</plugin>
+<item>
+	<title>[B]******** 24/7 Stuff ********[/B]</title>
+	<thumbnail></thumbnail>
+</item>
+<dir>
+	<name>24/7 Movies</name>
+	<link>https://raw.githubusercontent.com/the13clowns/resources/master/tRmKGjTbr/xmls/247movies.xml</link>
+</dir>
+<dir>
+	<name>24/7 TV Shows</name>
+	<link>https://raw.githubusercontent.com/the13clowns/resources/master/tRmKGjTbr/xmls/247shows.xml</link>
+</dir>
+<item>
+	<title>[B]******** 1 Click Movies ********[/B]</title>
+	<thumbnail></thumbnail>
+</item>
+<dir>
+	<name>4K Ultra HD Movies</name>
+	<link>http://miniaturelife67.co.uk/frank/ghost/ghostxmls/xmls1/wwe.xml</link>
+	<animated_thumbnail></animated_thumbnail>
+	<thumbnail></thumbnail>
+	<animated_fanart></animated_fanart>
+	<fanart></fanart>
+</dir>
+
 
 
 
