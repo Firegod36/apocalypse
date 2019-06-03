@@ -26,6 +26,13 @@
 <fanart>https://static1.squarespace.com/static/51b3dc8ee4b051b96ceb10de/t/5cc5f481f4e1fc08df2267cb/1556477062358/?format=2500w</fanart>
 </plugin>
         
+<dir>
+        <name>[B][COLORyellow]Watchdogs IMDB Lists[/COLOR][/B]</name>
+        <link>https://raw.githubusercontent.com/Firegod36/apocalypse/master/imdb.xml</link>
+        <thumbnail>https://png.pngtree.com/svg/20170609/2c2f83459d.png</thumbnail>
+        <fanart></fanart>
+</dir>
+        
 
         
 
