@@ -13,11 +13,32 @@
 </plugin>
         
 <dir>
-        <name>[B][COLORyellow]Watchdogs IMDB Lists[/COLOR][/B]</name>
-        <link>https://raw.githubusercontent.com/Firegod36/apocalypse/master/imdb.xml</link>
-        <thumbnail>https://png.pngtree.com/svg/20170609/2c2f83459d.png</thumbnail>
-        <fanart></fanart>
+	<name>4K Ultra HD Movies</name>
+	<link>https://raw.githubusercontent.com/Firegod36/apocalypse/master/oneclick.xml</link>
+	<animated_thumbnail></animated_thumbnail>
+	<thumbnail></thumbnail>
+	<animated_fanart></animated_fanart>
+	<fanart></fanart>
 </dir>
+
+<dir>
+	<name>One Click Movies (REAL DEBRID May be REQUIRED)</name>
+	<link>http://miniaturelife67.co.uk/frank/ghost/ghostxmls/xmls1/rd.xml</link>
+	<animated_thumbnail></animated_thumbnail>
+	<thumbnail></thumbnail>
+	<animated_fanart></animated_fanart>
+	<fanart></fanart>
+</dir>
+
+<dir>
+	<name>Lists</name>
+	<link>http://miniaturelife67.co.uk/frank/ghost/ghostxmls/xmls1/imdb.xml</link>
+	<animated_thumbnail></animated_thumbnail>
+	<thumbnail></thumbnail>
+	<animated_fanart></animated_fanart>
+	<fanart></fanart>
+</dir>
+
         
 
         
